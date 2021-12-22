@@ -1,6 +1,6 @@
 # QA-working-in-a-team
 
-[https://trello.com/b/HsCDwZgr/helo-test-plan](HELO Test Plan)
+[HELO Test Plan Trello Board](https://trello.com/b/HsCDwZgr/helo-test-plan)
 
 ## 1. Status Reports
 
